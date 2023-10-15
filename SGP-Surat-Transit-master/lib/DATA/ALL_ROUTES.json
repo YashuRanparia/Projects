@@ -1,0 +1,380 @@
+[
+  {
+    "all_routes": "UDHANA DARWAJA - SACHIN GIDC JUNCTION(11)"
+  },
+  {
+    "all_routes": "ONGC COLONY - SARTHANA NATURE PARK(12)"
+  },
+  {
+    "all_routes": "JAHANGIRPURA COMMUNITY HALL - KADODARA(13)"
+  },
+  {
+    "all_routes": "ONGC COLONY TO KOSAD EWS H2(14)"
+  },
+  {
+    "all_routes": "KOSAD DEPOT-DINDOLI VARIGRUH(16)"
+  },
+  {
+    "all_routes": "KAMREJ TERMINAL - SACHIN RAILWAY STATION(17AE)"
+  },
+  {
+    "all_routes": "KAMREJ TERMINAL - PAL R.T.O.(17A)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TERMINAL - UTRAN R.O.B. (18)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TERMINAL - KADODARA(19)"
+  },
+  {
+    "all_routes": "KOSAD EWS H2 - KHARWARNAGAR (20)"
+  },
+  {
+    "all_routes": "JAHANGIRPURA COMMUNITY HALL - TULSHIDHAM(21E)"
+  },
+  {
+    "all_routes": "JAHANGIRPURA COMMUNITY HALL - PANDESARA GIDC (21)"
+  },
+  {
+    "all_routes": "KOSAD EWS H2 - SARTHANA NATURE PARK (22)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TO MOTI VED (VIA RINGROAD)(102R)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TO KATHOR GAAM(103K)"
+  },
+  {
+    "all_routes": "RAILWAY STATION EAST TO SHEKHPUR GAAM(103S)"
+  },
+  {
+    "all_routes": "RAILWAY STATION EAST TO VELANJA GAAM(103V)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TERMINAL - VRUKSHLAXMI SOCIETY(104)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TERMINAL - CHIKUWADI (105)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TO ABHVA GAAM(VIA RINGROAD)(106R)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TO VIVEKANAND COLLEGE (VIA CHANDRA SHEKHAR AZAD BRIDGE)(107J)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TO LALWATALAAV OLPAD(VIA RINGROAD)(108R)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TERMINAL - KOSAD GAM(112)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TO KHAJOD GAM(VIA BHIMRAD) (VIA RINGROAD)(116BR)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TO KHAJOD GAM(VIA RINGROAD)(116R)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TERMINAL-SUMAN JYOT EWS(117)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TERMINAL - SAYAN RAILWAY(118)"
+  },
+  {
+    "all_routes": "RAILWAY STATION-SOMESHWAR JUNCTION(VIA RINGROAD)(126R)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TO RANDER GAAM (VIA CHANDRA SHEKHAR AZAD BRIDGE)(127J)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TERMINAL - SURAT AIRPORT(136)"
+  },
+  {
+    "all_routes": "RAILWAY STATION TO VARIAV GAAM (VIA CHANDRA SHEKHAR AZAD BRIDGE)(137J)"
+  },
+  {
+    "all_routes": "RAILWAY STATION EAST TO GREEN CITY BHATHA (VIA CHANDRA SHEKHAR AZAD BRIDGE)(147J)"
+  },
+  {
+    "all_routes": "UMRA GAAM TO KAPODRA(VIA RING ROAD)(153R)"
+  },
+  {
+    "all_routes": "CHOWK TO LAXMIDHAM SOC LOOP (VIA CHANDRA(202J)"
+  },
+  {
+    "all_routes": "CHOWK TERMINAL-RAJ EMPIRE GODADARA(204)"
+  },
+  {
+    "all_routes": "CHOWK TERMINAL - GABHENI GAAM(205G)"
+  },
+  {
+    "all_routes": "CHOWK TERMINAL - LAJPORE JAIL(205K)"
+  },
+  {
+    "all_routes": "CHOWK TERMINAL-DUMAS LANGER (VIA C.K.PITHAWALA ENG.COLLEGE)(206)"
+  },
+  {
+    "all_routes": "CHOWK TERMINAL-VAISHNODEVI SKY(207E)"
+  },
+  {
+    "all_routes": "DR S.P MUKHER BRID-VRUKSHLAXMI SOCIETY (209J)"
+  },
+  {
+    "all_routes": "MAKKIPOL TERMINAL TO VARIAV GAAMU (VIA CHANDR)(212J)"
+  },
+  {
+    "all_routes": "DABHOLI GAAM TO SARTHANA NATURE PARK(213)"
+  },
+  {
+    "all_routes": "CHOWK TERMINAL TO DUMAS LANGAR (VIA BHIMPORE)(216B)"
+  },
+  {
+    "all_routes": "CHOWK TERMINAL - DUMAS LANGAR (VIA KAADI FALIYA)(216K)"
+  },
+  {
+    "all_routes": "MAKKAI POOL - BHESAN GAAM (VIA MORA BHAG)(217M)"
+  },
+  {
+    "all_routes": "MAKKAI POOL - BHESAN GAAM(217)"
+  },
+  {
+    "all_routes": "KOSAD GAM TO VNSG UNIVERSITY (VIA CHANDR)(226J)"
+  },
+  {
+    "all_routes": "SUMAN DARSHAN - MANGAL PANDEY HALL GODADARA(254)"
+  },
+  {
+    "all_routes": "KHARWARNAGAR TO DABHOLI(302)"
+  },
+  {
+    "all_routes": "KHARWARNAGAR TO VED GAAM(302V)"
+  },
+  {
+    "all_routes": "KHARWARNAGAR - UNN INDUSTRIAL ESTATE (305)"
+  },
+  {
+    "all_routes": "KHARWARNAGAR TO BHESTAN GARDEN(315)"
+  },
+  {
+    "all_routes": "PUNA CANAL - UTRAN RAILWAY STATION(402)"
+  },
+  {
+    "all_routes": "SMC WARD OFFICE LIMBAYAT-SANKALP RESIDEN(403)"
+  },
+  {
+    "all_routes": "UTRAN STATION(START) - UTRAN STATION (EN(410))"
+  },
+  {
+    "all_routes": "AMAZIA AMUSEMENT PARK - BHESTAN GARDEN(504)"
+  },
+  {
+    "all_routes": "CHIKU WADI TO BUDIYA GAAM(505C)"
+  },
+  {
+    "all_routes": "MILAN POINT BAMROLI TO BUDIYA GAAM(505)"
+  },
+  {
+    "all_routes": "SUNRISE VIDYALAY DINDOLI - VESU GAAM(506)"
+  },
+  {
+    "all_routes": "ADAJAN GSRTC - MORA CHAR RASTA(658)"
+  },
+  {
+    "all_routes": "ISKCON CIRCLE - V.N.S.G. UNIVERSITY (706)"
+  },
+  {
+    "all_routes": "JAHANGIRPURA TO GAIL COLONY VESU(716)"
+  },
+  {
+    "all_routes": "PASODARA TO YOGI CHOWK(903)"
+  },
+  {
+    "all_routes": "SACHIN GIDC JUNCTION - UDHANA DARWAJA(11)"
+  },
+  {
+    "all_routes": "SARTHANA NATURE PARK - ONGC COLONY(12)"
+  },
+  {
+    "all_routes": "KADODARA - JAHANGIRPURA COMMUNITY HALL(13)"
+  },
+  {
+    "all_routes": "KOSAD EWS H2 TO ONGC COLONY(14)"
+  },
+  {
+    "all_routes": "DINDOLI VARIGRUH - KOSAD DEPOT(16)"
+  },
+  {
+    "all_routes": "SACHIN RAILWAY STATION - KAMREJ TERMINAL(17AE)"
+  },
+  {
+    "all_routes": "PAL R.T.O. - KAMREJ TERMINAL(17A)"
+  },
+  {
+    "all_routes": "UTRAN R.O.B. - RAILWAY STATION TERMINAL(18)"
+  },
+  {
+    "all_routes": "KADODARA - RAILWAY STATION TERMINAL(19)"
+  },
+  {
+    "all_routes": "KHARWARNAGAR - KOSAD EWS H2(20)"
+  },
+  {
+    "all_routes": "TULSHIDHAM - JAHANGIRPURA COMMUNITY HALL(21E)"
+  },
+  {
+    "all_routes": "PANDESARA GIDC - JAHANGIRPURA COMMUNITY HALL(21)"
+  },
+  {
+    "all_routes": "SARTHANA NATURE PARK - KOSAD EWS H2(22)"
+  },
+  {
+    "all_routes": "MOTI VED TO RAILWAY STATION(VIA RINGROAD)(102R)"
+  },
+  {
+    "all_routes": "KATHOR GAAM TO RAILWAY STATION(103K)"
+  },
+  {
+    "all_routes": "SHEKHPUR GAAM TO RAILWAY STATION EAST(103S)"
+  },
+  {
+    "all_routes": "VELANJA GAAM TO RAILWAY STATION EAST(103V)"
+  },
+  {
+    "all_routes": "VRUKSHLAXMI SOCIETY - RAILWAY STATION TERMINAL(104)"
+  },
+  {
+    "all_routes": "CHIKUWADI - RAILWAY STATION TERMINAL(105)"
+  },
+  {
+    "all_routes": "ABHVA GAAM TO RAILWAY STATION(VIA RINGROAD)(106R)"
+  },
+  {
+    "all_routes": "VIVEKANAND COLLEGE TO RAILWAY STATION(VIA CHANDRA SHEKHAR AZAD BRIDGE)(107J)"
+  },
+  {
+    "all_routes": "LALWATALAAV OLPAD TO RAILWAY STATION(VIA RINGROAD)(108R)"
+  },
+  {
+    "all_routes": "KOSAD GAM - RAILWAY STATION TERMINAL(112)"
+  },
+  {
+    "all_routes": "KHAJOD GAM TO RAILWAY STATION (VIA BHIMRAD) (VIA RINGROAD)(116BR)"
+  },
+  {
+    "all_routes": "KHAJOD GAM TO  RAILWAY STATION(VIA RINGROAD)(116R)"
+  },
+  {
+    "all_routes": "SUMAN JYOT EWS - RAILWAY STATION TERMINAL(117)"
+  },
+  {
+    "all_routes": "SAYAN RAILWAY - RAILWAY STATION TERMINAL(118)"
+  },
+  {
+    "all_routes": "SOMESHWAR JUNCTION - RAILWAY STATION(VIA RINGROAD)(126R)"
+  },
+  {
+    "all_routes": "RANDER GAAM TO RAILWAY STATION(VIA CHANDRA SHEKHAR AZAD BRIDGE)(127J)"
+  },
+  {
+    "all_routes": "SURAT AIRPORT - RAILWAY STATION TERMINAL(136)"
+  },
+  {
+    "all_routes": "VARIAV GAAM TO RAILWAY STATION (VIA CHANDRA SHEKHAR AZAD BRIDGE)(137J)"
+  },
+  {
+    "all_routes": "GREEN CITY BHATHA TO RAILWAY STATION EAST(VIA CHANDRA SHEKHAR AZAD BRIDGE)(147J)"
+  },
+  {
+    "all_routes": "KAPODRA TO UMRA GAAM(VIA RING ROAD)(153R)"
+  },
+  {
+    "all_routes": "LAXMIDHAM SOC LOOP TO CHOWK(VIA CHANDRA)(202J)"
+  },
+  {
+    "all_routes": "RAJ EMPIRE GODADARA - CHOWK TERMINAL(204)"
+  },
+  {
+    "all_routes": "GABHENI GAAM - CHOWK TERMINAL(205G)"
+  },
+  {
+    "all_routes": "LAJPORE JAIL - CHOWK TERMINAL(205K)"
+  },
+  {
+    "all_routes": "DUMAS LANGER - CHOWK TERMINAL(VIA C.K.PITHAWALA ENG.COLLEGE)(206)"
+  },
+  {
+    "all_routes": "VAISHNODEVI SKY - CHOWK TERMINAL(207E)"
+  },
+  {
+    "all_routes": "VRUKSHLAXMI SOCIETY - DR S.P MUKHER BRID(209J)"
+  },
+  {
+    "all_routes": "VARIAV GAAMU TO MAKKIPOL TERMINAL(VIA CHANDR)(212J)"
+  },
+  {
+    "all_routes": "SARTHANA NATURE PARK TO DABHOLI GAAM(213)"
+  },
+  {
+    "all_routes": "DUMAS LANGAR TO CHOWK TERMINAL(VIA BHIMPORE)(216B)"
+  },
+  {
+    "all_routes": "DUMAS LANGAR - CHOWK TERMINAL(VIA KAADI FALIYA)(216K)"
+  },
+  {
+    "all_routes": "BHESAN GAAM - MAKKAI POOL(VIA MORA BHAG)(217M)"
+  },
+  {
+    "all_routes": "BHESAN GAAM - MAKKAI POOL(217)"
+  },
+  {
+    "all_routes": "VNSG UNIVERSITY TO KOSAD GAM(VIA CHANDR)(226J)"
+  },
+  {
+    "all_routes": "MANGAL PANDEY HALL GODADARA - SUMAN DARSHAN(254)"
+  },
+  {
+    "all_routes": "DABHOLI TO KHARWARNAGAR(302)"
+  },
+  {
+    "all_routes": "VED GAAM TO KHARWARNAGAR(302V)"
+  },
+  {
+    "all_routes": "UNN INDUSTRIAL ESTATE - KHARWARNAGAR(305)"
+  },
+  {
+    "all_routes": "BHESTAN GARDEN TO KHARWARNAGAR(315)"
+  },
+  {
+    "all_routes": "UTRAN RAILWAY STATION - PUNA CANAL(402)"
+  },
+  {
+    "all_routes": "SANKALP RESIDENCY - SMC WARD OFFICE LIMBAYAT(403)"
+  },
+  {
+    "all_routes": "UTRAN STATION - UTRAN STATION(START)(EN(410))"
+  },
+  {
+    "all_routes": "BHESTAN GARDEN - AMAZIA AMUSEMENT PARK(504)"
+  },
+  {
+    "all_routes": "BUDIYA GAAM TO CHIKU WADI(505C)"
+  },
+  {
+    "all_routes": "BUDIYA GAAM TO MILAN POINT BAMROLI(505)"
+  },
+  {
+    "all_routes": "VESU GAAM - SUNRISE VIDYALAY DINDOLI(506)"
+  },
+  {
+    "all_routes": "MORA CHAR RASTA - ADAJAN GSRTC(658)"
+  },
+  {
+    "all_routes": "V.N.S.G. UNIVERSITY - ISKCON CIRCLE(706)"
+  },
+  {
+    "all_routes": "GAIL COLONY VESU TO JAHANGIRPURA(716)"
+  },
+  {
+    "all_routes": "YOGI CHOWK TO PASODARA(903)"
+  }
+]

@@ -1,0 +1,46 @@
+[
+
+        {
+            "id":1,
+            "name":"Dutch Garden",
+            "image": "assets/images/dutch_garden.jpg",
+            "address":"Dutch Garden Rd, Nanpura, Surat, Gujarat, 395001, India",
+            "data": "Located in Nanpura, the Dutch Garden is a European style cemetery of Dutch and English officers. It is popular for the beautiful tombs of the explorers who visited and settled in India in those times. They had settled in the region for trade purposes and the same area has been marked as the Dutch Garden as we see it today.\n\n\tBeing the resting spot of eminent personalities of their times it was beautifully built and is also referred to as the Dutch Cemetery. The well-maintained verdant lawns, glittering fountains, and colorful flower beds allure tourists and locals alike. The Garden is situated along the River Tapi, which adds to its beauty and makes it an ideal spot to unwind away from the cacophony of the city.\n\n\tThe memorial of Baron Adrian Van Reede is among the most attractive monuments of the Garden. He was the director of the Dutch company and built the first trading port in Surat. He died in 1691. You can explore the colonial history of Surat at the mausoleum and rejuvenate amidst nature at the Dutch Garden."
+        },
+        {
+            "id":2,
+            "name":"Jagdishchandra Bose Acqarium",
+            "image": "assets/images/jagdishchandra_bose_acqarium.jpg",
+            "address":"Adajan Hazira Road, Opp. Star Bazar, Surat, Gujarat 395009, India",
+            "data": "Located in the Pal region of Surat, Jagdishchandra Bose Aquarium is the first multidisciplinary aquarium in India. The aquarium houses around 100+ species of fishes from the estuaries of Gujarat and other underwater creatures. It is equipped with 52 specialized tanks with built-in ecosystems as needed by fresh, brackish, and marine aquatic animals.\n\n\tBeing a one-of-its-kind tourist attraction in the state it attracts a lot of tourists and even locals. Kids can learn about marine biodiversity and explore rare species of fishes, amphibians, and reptiles. The aquarium is a must-visit place in Surat to witness exotic fishes, sharks, lobsters, stingrays, alligators, piranhas, and other underwater inhabitants.\n\n\tMake sure you don’t miss the jellyfish pool, the double storied shark tank, and dolphin tunnel. The world-class infrastructure of the pool is eco-friendly as the project has been set up near the river to avoid any detrimental impact on the environment."
+        },
+        {
+            "id":3,
+            "name":"Sardar Patel Museum",
+            "image": "assets/images/sardar_patel_museum.jpg",
+            "address":"City Light Society, 25, Morlidhar Road, Surat, Gujarat 395007, India",
+            "data": "The Sardar Patel Museum was established in 1890 and was then known as the Winchester Museum. It is located in Shahibaug in an old building constructed in 1622 for Shah Jahan. Later the building was occupied by the British and was even used by the great Bengali poet Rabindranath Tagore.\n\n\tAfter India’s independence, the building became the State Governor’s Residence (Raj Bhavan). It was later converted into a national museum by Shri Babubhai Jasbhai Patel and was known as Sardar Sangrahalaya. The museum displays exhibits such as silk textiles, glassware, metalware, paintings, maps, ivory and terracotta artifacts depicting the glorious past and heritage of Surat.\n\n\tThere are around eight thousand five hundred items on display at the museum and many of them were received as gifts by the collectors. You can also enjoy the 3D audiovisual laser show hosted in the museum every evening. It takes you through Indian history from the Vedic period to the Mughal period and stories of British rule in India. The museum opens on all days except Mondays and also houses a planetarium."
+        },
+        {
+            "id":4,
+            "name":"Surat Castle",
+            "image": "assets/images/surat_castle.jpg",
+            "address":"Rang Upvan Road, Chowk Bazar, Varasa, Surat, Gujarat 395003, India",
+            "data": "Surat Castle, also known as the Old Castle is one of the most prominent heritage monuments of Surat. It was commissioned by Sultan Mahmud III in 1540 to fortify the region against Portuguese invasion. Surat was a port of International importance and an important trade center.\n\n\tBeing the most widely used trade link between India and other countries made it vulnerable to threats from invaders. The Surat Castle was then commissioned and built on the banks of the Tapi River in an area of around 1 acre. This ancient monument is an impeccable example of the powerful architecture of the medieval period.\n\n\tThough there were several attempts to stop the construction of the castle, it still stands tall as a testimony to the rich heritage of Surat. The castle is well-maintained and offers panoramic views of the city and the Arabian Sea."
+        },
+        {
+            "id":5,
+            "name":"Swaminarayan Temple",
+            "image": "assets/images/swaminarayan_temple.jpg",
+            "address":"Booharswami Sherr Akshar Purshottam Sanstha, Hanuman Pole, Nanavat, Surat, Gujarat, India",
+            "data": "Surat Castle, also known as the Old Castle is one of the most prominent heritage monuments of Surat. It was commissioned by Sultan Mahmud III in 1540 to fortify the region against Portuguese invasion. Surat was a port of International importance and an important trade center.\n\n\tBeing the most widely used trade link between India and other countries made it vulnerable to threats from invaders. The Surat Castle was then commissioned and built on the banks of the Tapi River in an area of around 1 acre. This ancient monument is an impeccable example of the powerful architecture of the medieval period.\n\n\tThough there were several attempts to stop the construction of the castle, it still stands tall as a testimony to the rich heritage of Surat. The castle is well-maintained and offers panoramic views of the city and the Arabian Sea."
+        },
+        {
+            "id":6,
+            "name":"Vansda National Park",
+            "image": "assets/images/vansda_national_park.jpg",
+            "address":"The address of Vansda National Park is Vansda, Dangs, Gujarat, 394710, India",
+            "data": "Surat Castle, also known as the Old Castle is one of the most prominent heritage monuments of Surat. It was commissioned by Sultan Mahmud III in 1540 to fortify the region against Portuguese invasion. Surat was a port of International importance and an important trade center.\n\n\tBeing the most widely used trade link between India and other countries made it vulnerable to threats from invaders. The Surat Castle was then commissioned and built on the banks of the Tapi River in an area of around 1 acre. This ancient monument is an impeccable example of the powerful architecture of the medieval period.\n\n\tThough there were several attempts to stop the construction of the castle, it still stands tall as a testimony to the rich heritage of Surat. The castle is well-maintained and offers panoramic views of the city and the Arabian Sea."
+        }
+
+]

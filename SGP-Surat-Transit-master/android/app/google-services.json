@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055736343144",
+    "project_id": "surat-public-transit",
+    "storage_bucket": "surat-public-transit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055736343144:android:af7f74a040b515857fa9dd",
+        "android_client_info": {
+          "package_name": "com.example.surat_transit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055736343144-u684lhsrkj0pbbckg58s7h1kr2martbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNqom-0lnqj1YAfDYN86YEzv20DBB62Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055736343144-u684lhsrkj0pbbckg58s7h1kr2martbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
