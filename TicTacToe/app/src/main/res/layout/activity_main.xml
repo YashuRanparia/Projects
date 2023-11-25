@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/design_default_color_secondary_variant"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="7dp"
+        android:backgroundTint="#05426A"
+        android:text="Start"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewboard" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:fontFamily="cursive"
+        android:text="Welcome to Tic Tac Toe"
+        android:textColor="#3A3838"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageViewboard"
+        android:layout_width="364dp"
+        android:layout_height="435dp"
+        android:layout_marginStart="18dp"
+        android:layout_marginTop="45dp"
+        android:foregroundGravity="center"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView"
+        app:srcCompat="@drawable/tictac" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewboard"
+        app:layout_constraintEnd_toEndOf="@+id/imageViewboard"
+        app:layout_constraintStart_toStartOf="@+id/imageViewboard"
+        app:layout_constraintTop_toTopOf="@+id/imageViewboard">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp"
+            android:orientation="horizontal"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp">
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_marginEnd="3dp"
+                android:layout_weight="1"
+                android:contentDescription="@android:string/no"
+                android:onClick="playerTap"
+                android:paddingEnd="6dp"
+                android:tag="1"
+                tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_marginStart="3dp"
+                android:layout_marginEnd="3dp"
+                android:layout_weight="1"
+                android:contentDescription="@android:string/no"
+                android:onClick="playerTap"
+                android:paddingEnd="6dp"
+                android:tag="2"
+                tools:ignore="SpeakableTextPresentCheck" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_marginStart="3dp"
+                android:layout_weight="1"
+                android:contentDescription="@android:string/no"
+                android:onClick="playerTap"
+                android:paddingStart="6dp"
+                android:tag="3" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp">
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_marginEnd="3dp"
+                android:layout_weight="1"
+                android:contentDescription="@android:string/no"
+                android:onClick="playerTap"
+                android:paddingEnd="6dp"
+                android:tag="4" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_marginStart="3dp"
+                android:layout_marginEnd="3dp"
+                android:layout_weight="1"
+                android:contentDescription="@android:string/no"
+                android:onClick="playerTap"
+                android:paddingEnd="6dp"
+                android:tag="5" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_marginStart="3dp"
+                android:layout_weight="1"
+                android:contentDescription="@android:string/no"
+                android:onClick="playerTap"
+                android:paddingStart="6dp"
+                android:tag="6" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="9dp"
+            android:paddingBottom="5dp">
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_marginEnd="3dp"
+                android:layout_weight="1"
+                android:contentDescription="@android:string/no"
+                android:onClick="playerTap"
+                android:paddingEnd="6dp"
+                android:tag="7" />
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_marginStart="3dp"
+                android:layout_marginEnd="3dp"
+                android:layout_weight="1"
+                android:contentDescription="@android:string/no"
+                android:onClick="playerTap"
+                android:paddingEnd="6dp"
+                android:tag="8" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="110dp"
+                android:layout_height="110dp"
+                android:layout_marginStart="3dp"
+                android:layout_weight="1"
+                android:contentDescription="@android:string/no"
+                android:onClick="playerTap"
+                android:paddingStart="6dp"
+                android:tag="9" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="96dp"
+        android:layout_marginEnd="96dp"
+        android:layout_marginBottom="50dp"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Turn of Player-1"
+        android:textColor="#302F2F"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="74dp"
+        android:backgroundTint="#05426A"
+        android:onClick="gameReset"
+        android:text="Reset"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewboard" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
