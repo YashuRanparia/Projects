@@ -1,0 +1,116 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body,html{
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+}
+
+.nav-bar{
+    display: flex;
+    width: 100%;
+    height: 40px;
+    margin: 0px;
+    background-color: grey;
+    padding: 0%;
+    justify-content: center;
+}
+
+.nav-tag{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: fit-content;
+    height: 100%;
+    color: black;
+    margin: auto;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    height: 50%;
+    width: 100%;
+    background-color: #e0e0e0;
+    flex-direction: column;
+    align-items: center;
+}
+
+#classes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.sport-person{
+    display: flex;
+    height: fit-content;
+    width: fit-content;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.sport-person>img{
+    object-fit: contain;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+}
+
+.sport-person>p{
+    color: black;
+    font-size: 20px;
+}
+
+.dragbox{
+    height: 150px;
+    width: 280px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: #000000 solid thin;
+    border-radius: 6px;
+    border-style: dashed;
+}
+
+.breaker{
+    height: 14px;
+}
+
+.dropzone{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.submit{
+    width: 100%;
+    padding: 5px 0px 5px 0px;
+    font-size: 16px;
+    border-radius: 6px;
+    border: #a0a0a0 solid thin;
+    cursor: pointer;
+}
+
+.drag-drop{
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+}
+
+#uploadimg{
+    height: 40px;
+    width: 40px;
+    color: black;
+}
