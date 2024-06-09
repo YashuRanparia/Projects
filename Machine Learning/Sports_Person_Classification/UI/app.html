@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sports Person Classification</title>
+    <link rel="stylesheet" href="app.css">
+    
+</head>
+<body>
+    <nav class="nav-bar">
+        <a class="nav-tag" href="#">Sports Person Classification</a>
+    </nav>
+    <div class="row">
+        <div id="classes"></div>
+    </div>
+
+    <script src="appstyle.js" defer></script>
+    <div class="row">
+        <div class="drag-drop">
+            <div class="dragbox">
+                <form class="dropzone" id="dropzone">
+                    <img id="uploadimg" src="cloud-arrow-up-solid.svg" alt="">
+                    <span>Drag and Drop file here or Click to upload</span>
+                </form>
+            </div>
+
+            <div class="breaker"></div>
+    
+            <div>
+                <button id="submitbtn" class="submit">Classify</button>
+            </div>
+        </div>
+
+        <div id="error" >
+            <p>Can't classify image. Classifier was not able to detect face and two eyes properly</p>    
+        </div>
+
+        <div id="resultHolder">
+        </div>
+    </div>
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+<script src="app.js"></script>
+</html>
